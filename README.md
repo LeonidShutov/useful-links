@@ -1,1 +1,1 @@
-# useful-links
+# useful-linksThis is collection of useful links I encountered during my developer life. Most of them related to Java, since it is my main programming language. However, there is plenty not language specific information. Links are in Russian and English, I will mark Russian ones.
