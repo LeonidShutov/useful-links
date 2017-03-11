@@ -1,4 +1,4 @@
-# useful-links
+# Developer's bookmarks
 This is collection of useful links I encountered during my developer life. Most of them related to Java, since it is my main programming language. However, there is plenty not language specific information. Links are in Russian and English, I will mark Russian ones.
 
 ### Interview Questions
@@ -9,7 +9,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Sample Resume for an Experienced Computer Programmer | Monster.com](http://career-advice.monster.com/resumes-cover-letters/resume-samples/sample-resume-computer-programmer-experienced/article.aspx)
 
-[index - cscareerquestions](https://www.reddit.com/r/cscareerquestions/wiki/index)
+[cscareerquestions subreddit](https://www.reddit.com/r/cscareerquestions/wiki/index)
 
 [Applying to 40+ Bay Area Jobs: Lessons Learned : cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/33a8qa/applying_to_40_bay_area_jobs_lessons_learned/)
 
@@ -51,40 +51,40 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [This is my technical interview cheat sheet. Feel free to fork it or do whatever you want with it. PLEASE let me know if there are any errors or if anything crucial is missing. I will add more links soon.](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
-[Собеседование на должность JavaScript разработчика / Хабрахабр](http://habrahabr.ru/post/231071/)
+RU [Собеседование на должность JavaScript разработчика / Хабрахабр](http://habrahabr.ru/post/231071/)
 
-[Задачи на собеседованиях в Яндексе / Блог компании Яндекс / Хабрахабр](http://habrahabr.ru/company/yandex/blog/206234/)
+RU [Задачи на собеседованиях в Яндексе / Блог компании Яндекс / Хабрахабр](http://habrahabr.ru/company/yandex/blog/206234/)
 
-[Интервью без сучка и задоринки: как программисту успешно пройти собеседование / Блог компании Wirex / Geektimes](https://geektimes.ru/company/wirex/blog/273166/)
+RU [Интервью без сучка и задоринки: как программисту успешно пройти собеседование / Блог компании Wirex / Geektimes](https://geektimes.ru/company/wirex/blog/273166/)
 
-### Links and books
+### Links Collections/ Learning sites and Books
 
 
-[Сайты Обучение](http://m.megamozg.ru/post/19214/#habracut)
+RU [Сайты Обучение](http://m.megamozg.ru/post/19214/#habracut)
 
 [Udacity](https://www.udacity.com/)
 
-[Java Вебинары](http://javawebinar.ru/#/books)
+RU [Java Вебинары](http://javawebinar.ru/#/books)
 
-[Java по-русски. Часть первая: Книги / Хабрахабр](http://habrahabr.ru/post/66568/)
+RU [Java по-русски. Часть первая: Книги / Хабрахабр](http://habrahabr.ru/post/66568/)
 
-[Java по-русски. Часть вторая: интернет-ресурсы / Хабрахабр](http://habrahabr.ru/post/67777/)
+RU [Java по-русски. Часть вторая: интернет-ресурсы / Хабрахабр](http://habrahabr.ru/post/67777/)
 
-[Архив - JUG.RU](http://jug.ru/archive)
+RU [Архив - JUG.RU](http://jug.ru/archive)
 
-[javatalks.ru / Форум Java программистов](http://javatalks.ru/)
+RU [javatalks.ru / Форум Java программистов](http://javatalks.ru/)
 
 [Javalobby | The heart of the Java developer community](http://java.dzone.com/)
 
-[8 ресурсов для бесплатного образования на русском языке / Хабрахабр](http://m.geektimes.ru/post/253076/)
+RU [8 ресурсов для бесплатного образования на русском языке / Хабрахабр](http://m.geektimes.ru/post/253076/)
 
-[Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github / Хабрахабр](http://m.habrahabr.ru/post/266821/)
+RU [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github / Хабрахабр](http://m.habrahabr.ru/post/266821/)
 
-[Начинающим Java программистам / Хабрахабр](http://habrahabr.ru/post/43293/)
+RU [Начинающим Java программистам / Хабрахабр](http://habrahabr.ru/post/43293/)
 
 [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 
-[Java программирование - скринкасты, уроки, вопросы | hasBrains](http://java.hasbrains.ru/)
+RU [Java программирование - скринкасты, уроки, вопросы | hasBrains](http://java.hasbrains.ru/)
 
 [DevDocs](http://devdocs.io/)
 
@@ -110,23 +110,23 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Effective Java (2nd Edition): Joshua Bloch: 8601300201986: Amazon.com: Books](http://www.amazon.com/gp/product/0321356683/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0321356683)
 
-[Пособие для будущего Java разработчика. Enterprise — часть 1 / Статьи / InfoJavaRush](http://info.javarush.ru/javarush_articles/2015/07/21/%D0%9F%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE-Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-Enterprise-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1.html)
+RU [Пособие для будущего Java разработчика. Enterprise — часть 1 / Статьи / InfoJavaRush](http://info.javarush.ru/javarush_articles/2015/07/21/%D0%9F%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE-Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-Enterprise-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1.html)
 
-[Пособие для будущего Java разработчика. Элегантный код | DOU](http://dou.ua/lenta/articles/java-beginner-guide-2/)
+RU [Пособие для будущего Java разработчика. Элегантный код | DOU](http://dou.ua/lenta/articles/java-beginner-guide-2/)
 
-[Пособие для будущего Java разработчика. Основы Java | DOU](http://dou.ua/lenta/articles/java-beginner-guide-1/)
+RU [Пособие для будущего Java разработчика. Основы Java | DOU](http://dou.ua/lenta/articles/java-beginner-guide-1/)
 
 [faq - learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_started_with_programming.3F)
 
-[Пособие для будущего Java разработчика. Новые горизонты | DOU](http://dou.ua/lenta/articles/java-beginner-guide-6/)
+RU [Пособие для будущего Java разработчика. Новые горизонты | DOU](http://dou.ua/lenta/articles/java-beginner-guide-6/)
 
-[Пособие для будущего Java разработчика. Собеседование и карьера | DOU](http://dou.ua/lenta/articles/java-beginner-guide-7/)
+RU [Пособие для будущего Java разработчика. Собеседование и карьера | DOU](http://dou.ua/lenta/articles/java-beginner-guide-7/)
 
-[Книжная полка: Java / Хабрахабр](http://habrahabr.ru/post/67763/)
+RU [Книжная полка: Java / Хабрахабр](http://habrahabr.ru/post/67763/)
 
 [Leaderboard | HackerRank](https://www.hackerrank.com/domains)
 
-[JUG.RU](http://jug.ru/meetings)
+RU [JUG.RU](http://jug.ru/meetings)
 
 [1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 
@@ -138,7 +138,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
-[Введение в java web разработку? — Toster.ru](https://toster.ru/q/232330)
+RU [Введение в java web разработку? — Toster.ru](https://toster.ru/q/232330)
 
 [Top 10 Lists of Common Java Mistakes (That Makes Top 100!) | Java, SQL and jOOQ.](http://blog.jooq.org/2013/11/01/top-10-lists-of-common-java-mistakes-that-makes-top-100/)
 
@@ -148,7 +148,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [SKM IT World | Just another blog about IT](http://blog.sandra-parsick.de/)
 
-[Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github / Хабрахабр](http://habrahabr.ru/post/266821/)
+RU [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github / Хабрахабр](http://habrahabr.ru/post/266821/)
 
 [TheServerSide.com: your Java Community discussing server side development](http://www.theserverside.com/)
 
@@ -160,7 +160,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Students - Guide to Technical Development - Google Careers](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-[Шпаргалка Java-программиста 5. Двести пятьдесят русскоязычных обучающих видео докладов и лекций о Java / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/272025/)
+RU [Шпаргалка Java-программиста 5. Двести пятьдесят русскоязычных обучающих видео докладов и лекций о Java / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/272025/)
 
 [Invitation: Your Ultimate 31-Course Holiday Banquet | Android Developers Blog](http://android-developers.blogspot.co.il/2015/12/invitation-your-ultimate-31-course.html)
 
@@ -172,53 +172,53 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [newstar.rinet.ru/\~goga/sicp/sicp-ru-screen.pdf](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf)
 
-[Книга "Человеческий фактор. Успешные проекты и команды" Том Демарко и Тимоти Листер - купить на OZON.ru книгу Peopleware: Productive Projects and Teams Человеческ](http://www.ozon.ru/context/detail/id/2338486/)
+RU [Книга "Человеческий фактор. Успешные проекты и команды" Том Демарко и Тимоти Листер - купить на OZON.ru книгу Peopleware: Productive Projects and Teams Человеческ](http://www.ozon.ru/context/detail/id/2338486/)
 
-[Книга "Алгоритмы. Руководство по разработке" Стивен Скиена - купить на OZON.ru книгу Алгоритмы. Руководство по разработке с доставкой по почте |](http://www.ozon.ru/context/detail/id/6290126/)
+RU [Книга "Алгоритмы. Руководство по разработке" Стивен Скиена - купить на OZON.ru книгу Алгоритмы. Руководство по разработке с доставкой по почте |](http://www.ozon.ru/context/detail/id/6290126/)
 
-[5 лучших бесплатных ресурсов для изучения программирования | Лайфхакер](http://lifehacker.ru/2013/09/28/5-luchshix-besplatnyx-resursov-dlya-izucheniya-programmirovaniya/)
+RU [5 лучших бесплатных ресурсов для изучения программирования | Лайфхакер](http://lifehacker.ru/2013/09/28/5-luchshix-besplatnyx-resursov-dlya-izucheniya-programmirovaniya/)
 
 [Learn by Doing - Code School](http://www.codeschool.com/)
 
-[Java программирование - скринкасты, уроки, вопросы | hasBrains](http://java.hasbrains.ru/)
+RU [Java программирование - скринкасты, уроки, вопросы | hasBrains](http://java.hasbrains.ru/)
 
 [Codecademy](http://www.codecademy.com/ru/users/shizopotam)
 
-[27 ресурсов для онлайн-обучения / Хабрахабр](http://habrahabr.ru/post/156241/#habracut)
+RU [27 ресурсов для онлайн-обучения / Хабрахабр](http://habrahabr.ru/post/156241/#habracut)
 
 [Computer Science | Khan Academy](http://www.khanacademy.org/cs/tutorials/programming-basics)
 
 [Class Central • A complete list of free online courses offered by Stanford, Coursera, MIT and Harvard led edX (MITx+HardvardX+BerkeleyX), and Udacity](http://www.class-central.com/)
 
-[Lektorium.TV. Видеолекции в свободном доступе.](http://www.lektorium.tv/university/?id=2932)
+RU [Lektorium.TV. Видеолекции в свободном доступе.](http://www.lektorium.tv/university/?id=2932)
 
 [Language Books/Tutorials for popular languages - Stack Overflow](http://stackoverflow.com/questions/22873/language-books-tutorials-for-popular-languages)
 
-[10 бесплатных онлайн-платформ, которые помогут вам стать программистом | Лайфхакер](http://lifehacker.ru/2013/08/02/10-besplatnyx-onlajn-platform-kotorye-pomogut-vam-stat-programmistom/)
+RU [10 бесплатных онлайн-платформ, которые помогут вам стать программистом | Лайфхакер](http://lifehacker.ru/2013/08/02/10-besplatnyx-onlajn-platform-kotorye-pomogut-vam-stat-programmistom/)
 
-[Коллекция веб-фрагментов](http://go.microsoft.com/fwlink/?LinkId=121315)
+RU [Коллекция веб-фрагментов](http://go.microsoft.com/fwlink/?LinkId=121315)
 
-[Как стать web-программистом за 1 год?](http://trurl123.blogspot.ru/2011/05/web-1.html)
+RU [Как стать web-программистом за 1 год?](http://trurl123.blogspot.ru/2011/05/web-1.html)
 
 [Code.org](http://learn.code.org/)
 
-[Список YouTube-каналов для обучения веб-разработке / Хабрахабр](http://habrahabr.ru/post/247893/)
+RU [Список YouTube-каналов для обучения веб-разработке / Хабрахабр](http://habrahabr.ru/post/247893/)
 
-[Лучшие интересности и полезности за год / Хабрахабр](http://habrahabr.ru/post/233483/)
+RU [Лучшие интересности и полезности за год / Хабрахабр](http://habrahabr.ru/post/233483/)
 
-[Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров / Блог компании Mail.Ru Group / Хабрахабр](http://habrahabr.ru/company/mailru/blog/215487/)
+RU [Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров / Блог компании Mail.Ru Group / Хабрахабр](http://habrahabr.ru/company/mailru/blog/215487/)
 
-[Обзор бесплатных инструментов для пентеста web-ресурсов и не только v2 / Хабрахабр](http://habrahabr.ru/post/125317/)
+RU [Обзор бесплатных инструментов для пентеста web-ресурсов и не только v2 / Хабрахабр](http://habrahabr.ru/post/125317/)
 
-[Время учиться: дайджест бесплатных образовательных материалов от Mail.Ru Group / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/280079/)
+RU [Время учиться: дайджест бесплатных образовательных материалов от Mail.Ru Group / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/280079/)
 
 [(1) What are the coding contests/sites where companies hire from? - Quora](https://www.quora.com/HackerRank/What-are-the-coding-contests-sites-where-companies-hire-from#)
 
 [Audio/Video Lectures | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science)
 
-[Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/280784/)
+RU [Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/280784/)
 
-[Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие) / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/280782/)
+RU [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие) / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/280782/)
 
 [How to choose the perfect boardgame](https://i.imgur.com/ECkYukd.jpg)
 
@@ -226,11 +226,11 @@ This is collection of useful links I encountered during my developer life. Most 
 
 ### Java EE and REST
 
-[Автоматизация тестирования Java EE веб-сервисов с помощью SoapUI и Arquillian / Хабрахабр](http://m.habrahabr.ru/post/267301/#habracut)
+RU [Автоматизация тестирования Java EE веб-сервисов с помощью SoapUI и Arquillian / Хабрахабр](http://m.habrahabr.ru/post/267301/#habracut)
 
 [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide)
 
-[RESTful API для сервера – делаем правильно (Часть 1) / Хабрахабр](http://habrahabr.ru/post/144011/)
+RU [RESTful API для сервера – делаем правильно (Часть 1) / Хабрахабр](http://habrahabr.ru/post/144011/)
 
 [Best Practices for Architecting a Pragmatic Web API.](http://www.slideshare.net/mario_cardinal/best-practices-for-designing-pragmatic-restful-api)
 
@@ -242,7 +242,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
-[RESTful API для сервера – делаем правильно (Часть 1) / Хабрахабр](http://habrahabr.ru/post/144011/)
+RU [RESTful API для сервера – делаем правильно (Часть 1) / Хабрахабр](http://habrahabr.ru/post/144011/)
 
 [Web API - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Web_API#Server-side)
 
@@ -262,11 +262,11 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
 
-[Подходы к проектированию RESTful API / Блог компании DataArt / Хабрахабр](https://habrahabr.ru/company/dataart/blog/277419/)
+RU [Подходы к проектированию RESTful API / Блог компании DataArt / Хабрахабр](https://habrahabr.ru/company/dataart/blog/277419/)
 
-### Hibernate
+### ORM and Hibernate
 
-[Шпаргалки Java программиста часть 1: JPA и Hibernate в вопросах и ответах / Хабрахабр](http://m.habrahabr.ru/post/265061/)
+RU [Шпаргалки Java программиста часть 1: JPA и Hibernate в вопросах и ответах / Хабрахабр](http://m.habrahabr.ru/post/265061/)
 
 [Hibernate Tutorial For Beginners using XML, Annotations and Property Configurations | JournalDev](http://www.journaldev.com/2882/hibernate-tutorial-for-beginners-using-xml-annotations-and-property-configurations)
 
@@ -282,9 +282,9 @@ This is collection of useful links I encountered during my developer life. Most 
 
 ### Spring
 
-[Учимся готовить: Spring 3 MVC + Spring Security + Hibernate / Хабрахабр](http://habrahabr.ru/post/111102/)
+RU [Учимся готовить: Spring 3 MVC + Spring Security + Hibernate / Хабрахабр](http://habrahabr.ru/post/111102/)
 
-[Архитектура веб-приложений. Стек Spring MVC + AngularJs / Блог компании Издательский дом «Питер» / Хабрахабр](http://habrahabr.ru/company/piter/blog/269217/)
+RU [Архитектура веб-приложений. Стек Spring MVC + AngularJs / Блог компании Издательский дом «Питер» / Хабрахабр](http://habrahabr.ru/company/piter/blog/269217/)
 
 [Spring Framework - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Spring_Framework)
 
@@ -292,29 +292,29 @@ This is collection of useful links I encountered during my developer life. Most 
 
 ### Java Core
 
-[Алгоритмы и структуры данных JDK / Хабрахабр](http://habrahabr.ru/post/182776/)
+RU [Алгоритмы и структуры данных JDK / Хабрахабр](http://habrahabr.ru/post/182776/)
 
-[skipy.ru: Записки трезвого практика -\> Главная -\> Новости](http://www.skipy.ru/index.html)
+RU [skipy.ru: Записки трезвого практика -\> Главная -\> Новости](http://www.skipy.ru/index.html)
 
 [The Java® Virtual Machine Specification](http://docs.oracle.com/javase/specs/jvms/se8/html/index.html)
 
-[Шпаргалка Java программиста 4. Java Stream API / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/270383/)
+RU [Шпаргалка Java программиста 4. Java Stream API / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/270383/)
 
 [Basic Garbage Collection Analysis | Dex](https://dexvis.wordpress.com/2012/05/31/basic-garbage-collection-analysis-18/comment-page-1/)
 
 [garbage collection - Java heap terminology: young, old and permanent generations? - Stack Overflow](http://stackoverflow.com/questions/2129044/java-heap-terminology-young-old-and-permanent-generations)
 
-[Справочник по Java Collections Framework / Хабрахабр](http://habrahabr.ru/post/237043/)
+RU [Справочник по Java Collections Framework / Хабрахабр](http://habrahabr.ru/post/237043/)
 
-[Шпаргалка программиста Java 3. Коллекции в Java (стандартные, guava, apache, trove, gc-collections и другие) / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/256877/)
+RU [Шпаргалка программиста Java 3. Коллекции в Java (стандартные, guava, apache, trove, gc-collections и другие) / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/256877/)
 
-[Обзор java.util.concurrent.\* / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/157273/)
+RU [Обзор java.util.concurrent.\* / Блог компании Luxoft / Хабрахабр](http://habrahabr.ru/company/luxoft/blog/157273/)
 
-[skipy.ru: Записки трезвого практика -\> Техника -\> Overloading, overriding и другие звери](http://www.skipy.ru/technics/over.html#linkage_test)
+RU [skipy.ru: Записки трезвого практика -\> Техника -\> Overloading, overriding и другие звери](http://www.skipy.ru/technics/over.html#linkage_test)
 
 [Java 8: No more loops](http://www.deadcoderising.com/java-8-no-more-loops/)
 
-[Java дайджест \#3. Concurrency | DOU](http://dou.ua/lenta/digests/java-digest-3/)
+RU [Java дайджест \#3. Concurrency | DOU](http://dou.ua/lenta/digests/java-digest-3/)
 
 [At the Boundaries, Applications are Not Object-Oriented](http://blog.ploeh.dk/2011/05/31/AttheBoundaries,ApplicationsareNotObject-Oriented/)
 
@@ -324,47 +324,45 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [What Is Garbage Collection? – Plumbr](https://plumbr.eu/handbook/what-is-garbage-collection)
 
-[Справочник по синхронизаторам java.util.concurrent.\* / Хабрахабр](https://habrahabr.ru/post/277669/)
+RU [Справочник по синхронизаторам java.util.concurrent.\* / Хабрахабр](https://habrahabr.ru/post/277669/)
 
 [Creating a memory leak with Java - Stack Overflow](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 
-[Интерфейсы — важнейшая концепция в разработке ПО / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/278561/)
+RU [Интерфейсы — важнейшая концепция в разработке ПО / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/278561/)
 
-### SQL
+### DBMS and SQL
 
-[Рефакторинг схем баз данных / Хабрахабр](http://m.habrahabr.ru/post/258629/#habracut)
+RU [Рефакторинг схем баз данных / Хабрахабр](http://m.habrahabr.ru/post/258629/#habracut)
 
 [Isolation (database systems) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Isolation_(database_systems))
 
 [Java, SQL and jOOQ. | Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.](http://blog.jooq.org/)
 
-[SQL.RU](http://sql.ru/forum/actualforum.aspx)
-
-[SQL.RU](http://sql.ru/forum/actualforum.aspx)
+RU [SQL.RU](http://sql.ru/forum/actualforum.aspx)
 
 [Learn SQL The Hard Way An Introduction To The Most Popular And Least Loved Data Language In The World](http://sql.learncodethehardway.org/book/)
 
 [SQL Indexing Tutorial | Use The Index, Luke!](http://use-the-index-luke.com/)
 
-[Администрирование баз данных Microsoft SQL Server - CIFT](http://www.cift.ru/?Front=Docs&Docs-ID=1631&Docs-Reset=1)
+RU [Администрирование баз данных Microsoft SQL Server - CIFT](http://www.cift.ru/?Front=Docs&Docs-ID=1631&Docs-Reset=1)
 
-[14 вопросов об индексах в SQL Server, которые вы стеснялись задать / Хабрахабр](http://habrahabr.ru/post/247373/)
+RU [14 вопросов об индексах в SQL Server, которые вы стеснялись задать / Хабрахабр](http://habrahabr.ru/post/247373/)
 
-[Как заполнить базу данных MS SQL разнородными случайными данными или 17 часов ожидания / Хабрахабр](http://habrahabr.ru/post/220185/)
+RU [Как заполнить базу данных MS SQL разнородными случайными данными или 17 часов ожидания / Хабрахабр](http://habrahabr.ru/post/220185/)
 
 [Upgrading To SQL 2012: Ten Things You Don't Want To Miss - SQLRockstar - Thomas LaRock](http://thomaslarock.com/2013/03/upgrading-to-sql-2012-ten-things-you-dont-want-to-miss/)
 
 [Help, my database is corrupt. Now what? / Microsoft SQL Server / Хабрахабр](http://habrahabr.ru/blogs/mssql/136979/)
 
-[10 лучших инструментов для разработки и администрирования MySQL / Хабрахабр](http://habrahabr.ru/post/142385/)
+RU [10 лучших инструментов для разработки и администрирования MySQL / Хабрахабр](http://habrahabr.ru/post/142385/)
 
 [7 Mistakes You Can't Afford To Make When Upgrading to SQL 2012](http://thomaslarock.com/2011/12/7-mistakes-you-cant-afford-to-make-when-upgrading-to-sql-2012/)
 
-[Как работает реляционная БД / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/266811/)
+RU [Как работает реляционная БД / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/266811/)
 
 ### Android
 
-[12 лучших фреймворков для разработки приложений под Android](http://m.habrahabr.ru/post/265261/comments/)
+RU [12 лучших фреймворков для разработки приложений под Android](http://m.habrahabr.ru/post/265261/comments/)
 
 [View | Android Developers](http://developer.android.com/reference/android/view/View.html#findViewById(int)?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_findviewbyid&utm_campaign=training)
 
@@ -376,17 +374,17 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Android Debug Bridge | Android Developers](http://developer.android.com/tools/help/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training)
 
-[Layouts | Android Developers](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
+[AdapterViews | Android Developers](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
 
-[Layouts | Android Developers](http://developer.android.com/guide/topics/ui/declaring-layout.html#FillingTheLayout)
+[FillingTheLayout | Android Developers](http://developer.android.com/guide/topics/ui/declaring-layout.html#FillingTheLayout)
 
-[6 вещей, который я хотел бы знать перед разработкой своего первого Android-приложения / Хабрахабр](http://m.habrahabr.ru/post/263079/)
+RU [6 вещей, который я хотел бы знать перед разработкой своего первого Android-приложения / Хабрахабр](http://m.habrahabr.ru/post/263079/)
 
-[40+ полезных инструментов для разработчика приложений под Android / Хабрахабр](http://m.habrahabr.ru/post/262403/#habracut)
+RU [40+ полезных инструментов для разработчика приложений под Android / Хабрахабр](http://m.habrahabr.ru/post/262403/#habracut)
 
 [Android School](http://learndroid.e-legion.ru/?utm_source=habr&utm_medium=post&utm_campaign=School_final)
 
-[Изучайте программирование под Android с бесплатными курсами от Google | Лайфхакер](http://lifehacker.ru/2014/07/20/google-android-udacity/)
+RU [Изучайте программирование под Android с бесплатными курсами от Google | Лайфхакер](http://lifehacker.ru/2014/07/20/google-android-udacity/)
 
 [Getting Started | Android Developers](http://developer.android.com/training/index.html)
 
@@ -402,31 +400,31 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [CodementorIO/Android-Learning-Resources · GitHub](https://github.com/CodementorIO/Android-Learning-Resources)
 
-[Какие есть опенсорсные приложения для Android, на исходниках которых можно учиться? — Toster.ru](https://toster.ru/q/236283)
+RU [Какие есть опенсорсные приложения для Android, на исходниках которых можно учиться? — Toster.ru](https://toster.ru/q/236283)
 
 [ACRA - Know your BUGS.](http://www.acra.ch/)
 
-[ootpapps.com/wp-content/uploads/2013/02/Android-App-Development-Cheat-Sheet-ootpapps.com-Publication.pdf](http://ootpapps.com/wp-content/uploads/2013/02/Android-App-Development-Cheat-Sheet-ootpapps.com-Publication.pdf)
+[Android-App-Development-Cheat-Sheet pdf](http://ootpapps.com/wp-content/uploads/2013/02/Android-App-Development-Cheat-Sheet-ootpapps.com-Publication.pdf)
 
-[Разработка мобильных приложений: с чего начать / Блог компании Mail.Ru Group / Хабрахабр](http://habrahabr.ru/company/mailru/blog/179113/)
+RU [Разработка мобильных приложений: с чего начать / Блог компании Mail.Ru Group / Хабрахабр](http://habrahabr.ru/company/mailru/blog/179113/)
 
-[Оцениваем идею вашего мобильного приложения / Хабрахабр](http://habrahabr.ru/post/189496/)
+RU [Оцениваем идею вашего мобильного приложения / Хабрахабр](http://habrahabr.ru/post/189496/)
 
-[Правильная аналитика в мобильном приложении / Блог компании Touch Instinct / Хабрахабр](http://habrahabr.ru/company/touchinstinct/blog/189344/)
+RU [Правильная аналитика в мобильном приложении / Блог компании Touch Instinct / Хабрахабр](http://habrahabr.ru/company/touchinstinct/blog/189344/)
 
-[Шаблоны игрового программирования. Оглавление и введение: live13](http://live13.livejournal.com/462582.html)
+RU [Шаблоны игрового программирования. Оглавление и введение: live13](http://live13.livejournal.com/462582.html)
 
-[Построение Android приложений шаг за шагом, часть третья / Блог компании Rambler&Co / Хабрахабр](https://habrahabr.ru/company/rambler-co/blog/279799/)
+RU [Построение Android приложений шаг за шагом, часть третья / Блог компании Rambler&Co / Хабрахабр](https://habrahabr.ru/company/rambler-co/blog/279799/)
 
-[Архитектура Android приложений / Хабрахабр](https://habrahabr.ru/post/278815/)
+RU [Архитектура Android приложений / Хабрахабр](https://habrahabr.ru/post/278815/)
 
-[Пять шагов по оптимизации производительности приложения для Андроид / Хабрахабр](https://habrahabr.ru/post/279979/)
+RU [Пять шагов по оптимизации производительности приложения для Андроид / Хабрахабр](https://habrahabr.ru/post/279979/)
 
-[Построение Android приложений шаг за шагом, часть первая / Блог компании Rambler&Co / Хабрахабр](https://habrahabr.ru/company/rambler-co/blog/275943/)
+RU [Построение Android приложений шаг за шагом, часть первая / Блог компании Rambler&Co / Хабрахабр](https://habrahabr.ru/company/rambler-co/blog/275943/)
 
 ### Front End
 
-[AngularJS: Основные понятия](http://angular.ru/guide/concepts)
+RU [AngularJS: Основные понятия](http://angular.ru/guide/concepts)
 
 [Component Based Thinking in AngularJS](http://busypeoples.github.io/post/thinking-in-components-angular-js/)
 
@@ -434,15 +432,15 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Balsamiq Mockups](http://balsamiq.com/products/mockups/)
 
-[Как сверстать веб-страницу. Часть 2 — Bootstrap / Хабрахабр](http://habrahabr.ru/post/211032/)
+RU [Как сверстать веб-страницу. Часть 2 — Bootstrap / Хабрахабр](http://habrahabr.ru/post/211032/)
 
-[30 полезных сервисов для веб-разработчика / Хабрахабр](http://habrahabr.ru/post/225367/)
+RU [30 полезных сервисов для веб-разработчика / Хабрахабр](http://habrahabr.ru/post/225367/)
 
-[Обзор бесплатных сервисов для веб-разработки / Хабрахабр](http://habrahabr.ru/post/209258/)
+RU [Обзор бесплатных сервисов для веб-разработки / Хабрахабр](http://habrahabr.ru/post/209258/)
 
-[Usethics - Юзабилити-тестирование по дешевке](http://usethics.ru/blog/lib/testing_by_the_cheap/#_Toc104718043)
+RU [Usethics - Юзабилити-тестирование по дешевке](http://usethics.ru/blog/lib/testing_by_the_cheap/#_Toc104718043)
 
-[Usethics - Контрольный список интерфейса](http://usethics.ru/blog/lib/software_checklist/)
+RU [Usethics - Контрольный список интерфейса](http://usethics.ru/blog/lib/software_checklist/)
 
 ### Http
 
@@ -450,11 +448,11 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [HTTP: The Protocol Every Web Developer Must Know - Part 2 - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
-[HTTP — Википедия](https://ru.wikipedia.org/wiki/HTTP)
+RU [HTTP — Википедия](https://ru.wikipedia.org/wiki/HTTP)
 
 ### Git
 
-[Шпаргалка по git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
+RU [Шпаргалка по git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 
 [8 Essential Git Interview Questions and Answers | Toptal](http://www.toptal.com/git/interview-questions)
 
@@ -462,15 +460,15 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Git for the SalesLogix Developer - Ryan Farley's Blog](http://customerfx.com/pages/crmdeveloper/2010/06/02/git-for-the-saleslogix-developer.aspx)
 
-[Особенности настройки git под windows / Хабрахабр](http://habrahabr.ru/post/74839/)
+RU [Особенности настройки git под windows / Хабрахабр](http://habrahabr.ru/post/74839/)
 
-[cloud.github.com/downloads/GArik/progit/progit.ru.pdf](http://cloud.github.com/downloads/GArik/progit/progit.ru.pdf)
+RU [progit pdf](http://cloud.github.com/downloads/GArik/progit/progit.ru.pdf)
 
 ### Functional
 
 [Clojure multimethods | Constant Arguments](https://constarg.wordpress.com/2011/01/06/clojure-multimethods/)
 
-[Функциональное программирование для всех / Хабрахабр](http://habrahabr.ru/post/142351/)
+RU [Функциональное программирование для всех / Хабрахабр](http://habrahabr.ru/post/142351/)
 
 ### General questions
 
@@ -478,15 +476,15 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
-[Я не знаю ООП / Хабрахабр](http://habrahabr.ru/post/147927/)
+RU [Я не знаю ООП / Хабрахабр](http://habrahabr.ru/post/147927/)
 
-[Автоматический контроль качества Java-кода / Хабрахабр](http://habrahabr.ru/post/63212/)
+RU [Автоматический контроль качества Java-кода / Хабрахабр](http://habrahabr.ru/post/63212/)
 
 [SonarQube™](http://www.sonarqube.org/)
 
-[Матрица компетентности программиста ч.I.](https://docs.google.com/document/d/1FVvoSY35YD4BfAkv-XYGRITFbE17pA7A-R6S76UVsBQ/pub)
+RU [Матрица компетентности программиста ч.I.](https://docs.google.com/document/d/1FVvoSY35YD4BfAkv-XYGRITFbE17pA7A-R6S76UVsBQ/pub)
 
-[Таблица компетентности программистов ч.II.](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)
+RU [Таблица компетентности программистов ч.II.](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)
 
 [Programmer Competency Matrix | Sijin JosephSijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/)
 
@@ -494,13 +492,13 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [fogus: 10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 
-[Страсть к программированию. Глава 22. Помни, на кого работаешь / Хабрахабр](http://habrahabr.ru/post/212019/)
+RU [Страсть к программированию. Глава 22. Помни, на кого работаешь / Хабрахабр](http://habrahabr.ru/post/212019/)
 
-[[Перевод] Современный веб-разработчик, или 6 вещей, которые вы должны знать, чтобы выжить / Хабрахабр](http://habrahabr.ru/post/162317/)
+RU [[Перевод] Современный веб-разработчик, или 6 вещей, которые вы должны знать, чтобы выжить / Хабрахабр](http://habrahabr.ru/post/162317/)
 
 ### Games
 
-[21 бесплатный учебный ресурс для разработчиков игр / Блог компании Plarium / Хабрахабр](http://habrahabr.ru/company/plarium/blog/275027/)
+RU [21 бесплатный учебный ресурс для разработчиков игр / Блог компании Plarium / Хабрахабр](http://habrahabr.ru/company/plarium/blog/275027/)
 
 [University of Reddit : Computer Science](http://universityofreddit.com/category/23442/computer-science)
 
@@ -514,17 +512,17 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Over 1,700 free tiles for your roguelike/RPG project, public domain! : gamedev](https://www.reddit.com/r/gamedev/comments/2zp584/over_1700_free_tiles_for_your_roguelikerpg/)
 
-[Unity3D / Интересные публикации / Хабрахабр](http://habrahabr.ru/hub/unity3d/)
+RU [Unity3D / Интересные публикации / Хабрахабр](http://habrahabr.ru/hub/unity3d/)
 
-[Game Development / Интересные публикации / Хабрахабр](http://habrahabr.ru/hub/gdev/)
+RU [Game Development / Интересные публикации / Хабрахабр](http://habrahabr.ru/hub/gdev/)
 
-[Дайджест игровой индустрии: декабрь / Блог компании Plarium / Хабрахабр](https://habrahabr.ru/company/plarium/blog/275699/)
+RU [Дайджест игровой индустрии: декабрь / Блог компании Plarium / Хабрахабр](https://habrahabr.ru/company/plarium/blog/275699/)
 
 [tutorials – GameDev Academy](https://gamedevacademy.org/category/tutorials/)
 
-[Универсариум | Геймдизайн: по ту сторону игры](http://universarium.org/course/460)
+RU [Универсариум | Геймдизайн: по ту сторону игры](http://universarium.org/course/460)
 
-[Как написать рогалик за 15 шагов — Клуб любителей рогаликов](http://rlgclub.ru/wiki/%D0%9A%D0%B0%D0%BA_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D1%80%D0%BE%D0%B3%D0%B0%D0%BB%D0%B8%D0%BA_%D0%B7%D0%B0_15_%D1%88%D0%B0%D0%B3%D0%BE%D0%B2)
+RU [Как написать рогалик за 15 шагов — Клуб любителей рогаликов](http://rlgclub.ru/wiki/%D0%9A%D0%B0%D0%BA_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D1%80%D0%BE%D0%B3%D0%B0%D0%BB%D0%B8%D0%BA_%D0%B7%D0%B0_15_%D1%88%D0%B0%D0%B3%D0%BE%D0%B2)
 
 [Building the Really Really Really Simple RogueLike V0.1 With C\#](http://www.c-sharpcorner.com/UploadFile/dommym/building-the-really-really-really-simple-roguelike-v0-1-with/)
 
@@ -532,13 +530,13 @@ This is collection of useful links I encountered during my developer life. Most 
 
 ### Big Data
 
-[Архитектура высоконагруженных систем](https://www.insight-it.ru/highload/)
+RU [Архитектура высоконагруженных систем](https://www.insight-it.ru/highload/)
 
-[MapReduce — Википедия](https://ru.wikipedia.org/wiki/MapReduce)
+RU [MapReduce — Википедия](https://ru.wikipedia.org/wiki/MapReduce)
 
-[HighLoad Junior Блог](http://highload.guide/blog/about-highload-2014.html?goal=0_f190819385-b9b7914833-145674333)
+RU [HighLoad Junior Блог](http://highload.guide/blog/about-highload-2014.html?goal=0_f190819385-b9b7914833-145674333)
 
-[MongoDb for developers. Неделя 1 / Хабрахабр](http://habrahabr.ru/post/156633/#habracut)
+RU [MongoDb for developers. Неделя 1 / Хабрахабр](http://habrahabr.ru/post/156633/#habracut)
 
 ### Unix
 
@@ -550,43 +548,41 @@ This is collection of useful links I encountered during my developer life. Most 
 
 ### .NET C#
 
-[Бесплатная централизованная библиотека кода: Microsoft All-In-One Code Framework / Блог компании Microsoft / Хабрахабр](http://habrahabr.ru/company/microsoft/blog/125000/)
+RU [Бесплатная централизованная библиотека кода: Microsoft All-In-One Code Framework / Блог компании Microsoft / Хабрахабр](http://habrahabr.ru/company/microsoft/blog/125000/)
 
-[Обучение программированию и сертификация Microsoft для разработчиков. Авторизованные учебные курсы Microsoft.](http://msdn.microsoft.com/ru-ru/bb188199)
+RU [Обучение программированию и сертификация Microsoft для разработчиков. Авторизованные учебные курсы Microsoft.](http://msdn.microsoft.com/ru-ru/bb188199)
 
-[Набор полезных утилит и библиотек мира .NET / Хабрахабр](http://habrahabr.ru/post/142048/)
+RU [Набор полезных утилит и библиотек мира .NET / Хабрахабр](http://habrahabr.ru/post/142048/)
 
-[Загрузка | Microsoft Visual Studio 2012](http://www.microsoft.com/visualstudio/rus/downloads#d-visual-studio-2012-update)
+RU [Летняя школа Windows 8](http://www.techdays.ru/series/w8summerschool)
 
-[Летняя школа Windows 8](http://www.techdays.ru/series/w8summerschool)
+RU [Обучение программированию и сертификация Microsoft для разработчиков. Авторизованные учебные курсы Microsoft.](http://msdn.microsoft.com/ru-ru/bb188199)
 
-[Обучение программированию и сертификация Microsoft для разработчиков. Авторизованные учебные курсы Microsoft.](http://msdn.microsoft.com/ru-ru/bb188199)
+RU [Движок экзаменов Microsoft + сами экзамены - Cool\_Dark\_man](http://doci.nnm.ru/cool_dark/23.10.2006/dvizhok_ekzamenov_microsoft_sami_ekzameny/)
 
-[Движок экзаменов Microsoft + сами экзамены - Cool\_Dark\_man](http://doci.nnm.ru/cool_dark/23.10.2006/dvizhok_ekzamenov_microsoft_sami_ekzameny/)
+RU [Расширение Web Essentials для Visual Studio: LESS, Zen Coding, CoffeeScript и многое другое / Блог компании Microsoft / Хабрахабр](http://habrahabr.ru/company/microsoft/blog/165735/#habracut)
 
-[Расширение Web Essentials для Visual Studio: LESS, Zen Coding, CoffeeScript и многое другое / Блог компании Microsoft / Хабрахабр](http://habrahabr.ru/company/microsoft/blog/165735/#habracut)
+RU [Архитектурные приемы, механизмы и решения с применением Си-шарп — Викиверситет](http://ru.wikiversity.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D1%8B,_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B_%D0%B8_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%A1%D0%B8-%D1%88%D0%B0%D1%80%D0%BF)
 
-[Архитектурные приемы, механизмы и решения с применением Си-шарп — Викиверситет](http://ru.wikiversity.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D1%8B,_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B_%D0%B8_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%A1%D0%B8-%D1%88%D0%B0%D1%80%D0%BF)
-
-[Пользовательские отчеты в среде Management Studio](http://msdn.microsoft.com/ru-ru/library/bb153684(v=sql.105).aspx)
+RU [Пользовательские отчеты в среде Management Studio](http://msdn.microsoft.com/ru-ru/library/bb153684(v=sql.105).aspx)
 
 [Microsoft Touch Develop - create apps everywhere, on all your devices!](https://www.touchdevelop.com/)
 
 ### iOS
 
-[Полезные штуки для iOS-разработчика \#1 / Хабрахабр](http://habrahabr.ru/post/144136/)
+RU [Полезные штуки для iOS-разработчика \#1 / Хабрахабр](http://habrahabr.ru/post/144136/)
 
-[Полезные штуки для iOS-разработчика \#2 / Хабрахабр](http://habrahabr.ru/post/160723/)
+RU [Полезные штуки для iOS-разработчика \#2 / Хабрахабр](http://habrahabr.ru/post/160723/)
 
-[Установка Xcode в Windows - Максим Михеев](http://maxmikheev.ru/blog/2013/08/01/install-xcode-windows7-part2/)
+RU [Установка Xcode в Windows - Максим Михеев](http://maxmikheev.ru/blog/2013/08/01/install-xcode-windows7-part2/)
 
-[Objective-C — Википедия](http://ru.wikipedia.org/wiki/Objective-C)
+RU [Objective-C — Википедия](http://ru.wikipedia.org/wiki/Objective-C)
 
 [Getting Started with iPhone and iOS Development - CodeProject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development)
 
 ### Blogs
 
-[Убей в себе государство](http://slonik-v-domene.livejournal.com/)
+RU [Убей в себе государство](http://slonik-v-domene.livejournal.com/)
 
 [A Java geek \> Refactoring code for testability: an example](https://blog.frankel.ch/refactoring-code-for-testability-an-example)
 
@@ -598,19 +594,19 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Advanced Java Tutorial | Java Code Geeks](http://www.javacodegeeks.com/2015/09/advanced-java.html)
 
-[Никита Сальников-Тарновский, Plumbr — Где моя память, чувак?! - YouTube](https://www.youtube.com/watch?v=3UP0o2gkeRQ&feature=youtu.be)
+RU [Никита Сальников-Тарновский, Plumbr — Где моя память, чувак?! - YouTube](https://www.youtube.com/watch?v=3UP0o2gkeRQ&feature=youtu.be)
 
-[Антон Кекс — Как нам спасти Java? — Часть 1 - YouTube](https://www.youtube.com/watch?v=TSAlj04_tkA)
+RU [Антон Кекс — Как нам спасти Java? — Часть 1 - YouTube](https://www.youtube.com/watch?v=TSAlj04_tkA)
 
-[Систематизация автоматизации: Хороший дизайн должен быть SOLID: TOP-5 архитектурных принципов](http://igor.quatrocode.com/2008/09/solid-top-5.html)
+RU [Систематизация автоматизации: Хороший дизайн должен быть SOLID: TOP-5 архитектурных принципов](http://igor.quatrocode.com/2008/09/solid-top-5.html)
 
-[Код с душком (рефакторинг М. Фаулера) / Хабрахабр](http://habrahabr.ru/post/169139/)
+RU [Код с душком (рефакторинг М. Фаулера) / Хабрахабр](http://habrahabr.ru/post/169139/)
 
-[Создание кода во время разработки с помощью текстовых шаблонов T4](http://msdn.microsoft.com/ru-ru/library/dd820620.aspx)
+RU [Создание кода во время разработки с помощью текстовых шаблонов T4](http://msdn.microsoft.com/ru-ru/library/dd820620.aspx)
 
-[Создание архитектуры программы или как проектировать табуретку / Хабрахабр](https://habrahabr.ru/post/276593/)
+RU [Создание архитектуры программы или как проектировать табуретку / Хабрахабр](https://habrahabr.ru/post/276593/)
 
-[skipy.ru: Записки трезвого практика -\> Архитектура -\> Модульный дизайн или «что такое DIP, SRP, IoC, DI и т.п.»](http://www.skipy.ru/architecture/module_design.html#how_it_should_be)
+RU [skipy.ru: Записки трезвого практика -\> Архитектура -\> Модульный дизайн или «что такое DIP, SRP, IoC, DI и т.п.»](http://www.skipy.ru/architecture/module_design.html#how_it_should_be)
 
 [Table of Contents · Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
@@ -622,54 +618,54 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Software architecture patterns - O'Reilly Media](https://www.oreilly.com/ideas/software-architecture-patterns/page/5/microservices-architecture-pattern)
 
-[Пишите код, который легко удалять, а не дополнять / Блог компании PayOnline / Хабрахабр](https://habrahabr.ru/company/payonline/blog/277629/)
+RU [Пишите код, который легко удалять, а не дополнять / Блог компании PayOnline / Хабрахабр](https://habrahabr.ru/company/payonline/blog/277629/)
 
-[Немного об архитектурах программного обеспечения / Блог компании ИТ-ГРАД / Хабрахабр](https://habrahabr.ru/company/it-grad/blog/276297/)
+RU [Немного об архитектурах программного обеспечения / Блог компании ИТ-ГРАД / Хабрахабр](https://habrahabr.ru/company/it-grad/blog/276297/)
 
-[Почему мобильные веб-приложения такие медленные? / Хабрахабр](https://habrahabr.ru/post/277311/)
+RU [Почему мобильные веб-приложения такие медленные? / Хабрахабр](https://habrahabr.ru/post/277311/)
 
-[Записки правдивого архитектора: просто о самом главном (Ч.1) / Хабрахабр](https://habrahabr.ru/post/276527/)
+RU [Записки правдивого архитектора: просто о самом главном (Ч.1) / Хабрахабр](https://habrahabr.ru/post/276527/)
 
-### UpWork
-[oDesk (Upwork). Мой опыт за полтора года / Мегамозг](https://megamozg.ru/post/6062/)
+### Freelance and UpWork
+RU [oDesk (Upwork). Мой опыт за полтора года / Мегамозг](https://megamozg.ru/post/6062/)
 
-[Блог про фриланс - Just For Fun. Работа на иностранных биржах (Upwork, oDesk и Elance). Блог про фриланс — Just For Fun.](http://jff.name/)
+RU [Блог про фриланс - Just For Fun. Работа на иностранных биржах (Upwork, oDesk и Elance). Блог про фриланс — Just For Fun.](http://jff.name/)
 
-[oDesk для начинающих / Мегамозг](https://megamozg.ru/post/5936/)
+RU [oDesk для начинающих / Мегамозг](https://megamozg.ru/post/5936/)
 
-[Как я начал работать на Odesk и Elance / Мегамозг](https://megamozg.ru/post/6034/)
+RU [Как я начал работать на Odesk и Elance / Мегамозг](https://megamozg.ru/post/6034/)
 
-[Cоветы начинающему фрилансеру: как продавать услуги на развитые рынки через открытые площадки (odesk, elance, freelancer) / Мегамозг](https://megamozg.ru/post/10592/)
+RU [Cоветы начинающему фрилансеру: как продавать услуги на развитые рынки через открытые площадки (odesk, elance, freelancer) / Мегамозг](https://megamozg.ru/post/10592/)
 
-[Искусство переговоров — это просто бизнес, ничего личного / Мегамозг](https://megamozg.ru/post/1594/)
+RU [Искусство переговоров — это просто бизнес, ничего личного / Мегамозг](https://megamozg.ru/post/1594/)
 
-[Работа на elance для новичков. Часть2 / Мегамозг](https://megamozg.ru/post/3756/)
+RU [Работа на elance для новичков. Часть2 / Мегамозг](https://megamozg.ru/post/3756/)
 
-[12 вещей, которые я узнал за 12 лет работы во фрилансе / Мегамозг](https://megamozg.ru/post/11496/)
+RU [12 вещей, которые я узнал за 12 лет работы во фрилансе / Мегамозг](https://megamozg.ru/post/11496/)
 
-[Как мы начали работать на Upwork (личный опыт) / Мегамозг](https://megamozg.ru/post/18348/)
+RU [Как мы начали работать на Upwork (личный опыт) / Мегамозг](https://megamozg.ru/post/18348/)
 
-[5 способов получить положительный отзыв / Мегамозг](https://megamozg.ru/post/18940/)
+RU [5 способов получить положительный отзыв / Мегамозг](https://megamozg.ru/post/18940/)
 
 ### Algorithms and Data Structures
 
 [Syllabus | Advanced Data Structures | Electrical Engineering and Computer Science | MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/Syllabus/)
 
-[Книга "Алгоритмы. Построение и анализ" Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн - купить на OZON.ru книгу Introduction to Algorithms Ал](https://www.ozon.ru/context/detail/id/33769775/)
+RU [Книга "Алгоритмы. Построение и анализ" Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн - купить на OZON.ru книгу Introduction to Algorithms Ал](https://www.ozon.ru/context/detail/id/33769775/)
 
-[[ В закладки ] Алгоритмы и структуры данных в ядре Linux, Chromium и не только / Блог компании Wunder Fund / Хабрахабр](https://habrahabr.ru/company/wunderfund/blog/277143/)
+RU [[ В закладки ] Алгоритмы и структуры данных в ядре Linux, Chromium и не только / Блог компании Wunder Fund / Хабрахабр](https://habrahabr.ru/company/wunderfund/blog/277143/)
 
-[Алгоритм Дейкстры — Википедия](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%94%D0%B5%D0%B9%D0%BA%D1%81%D1%82%D1%80%D1%8B)
+RU [Алгоритм Дейкстры — Википедия](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%94%D0%B5%D0%B9%D0%BA%D1%81%D1%82%D1%80%D1%8B)
 
-[Что нужно знать про арифметику с плавающей запятой / Хабрахабр](https://habrahabr.ru/post/112953/)
+RU [Что нужно знать про арифметику с плавающей запятой / Хабрахабр](https://habrahabr.ru/post/112953/)
 
-[Coursera](https://class.coursera.org/algo-009/wiki/Syllabus)
+[Algorithms Coursera](https://class.coursera.org/algo-009/wiki/Syllabus)
 
-[Approximation Algorithms Part II - Высшая нормальная школа | Coursera](https://www.coursera.org/learn/approximation-algorithms-part-2)
+RU [Approximation Algorithms Part II - Высшая нормальная школа | Coursera](https://www.coursera.org/learn/approximation-algorithms-part-2)
 
 ### Amazon Interview
 
-[reddit.com: результаты поиска](https://www.reddit.com/search?q=amazon+interview&restrict_sr=&sort=relevance&t=all#page=4)
+[reddit.com: amazon interview](https://www.reddit.com/search?q=amazon+interview&restrict_sr=&sort=relevance&t=all#page=4)
 
 [I consider myself to be a decent programmer, but I just failed an Amazon phone interview... Advice? : cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/136y9x/i_consider_myself_to_be_a_decent_programmer_but_i/)
 
@@ -743,21 +739,21 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [22. Web MVC framework](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
 
-[Знаешь ли ты JAVA, %username%? Часть вторая / Хабрахабр](https://habrahabr.ru/post/112674/)
+RU [Знаешь ли ты JAVA, %username%? Часть вторая / Хабрахабр](https://habrahabr.ru/post/112674/)
 
-[Знаешь ли ты JAVA, %username%? / Хабрахабр](https://habrahabr.ru/post/111189/)
+RU [Знаешь ли ты JAVA, %username%? / Хабрахабр](https://habrahabr.ru/post/111189/)
 
-[Интерфейсы и абстрактные классы](http://www.quizful.net/interview/java/interface-vs-abstract-class)
+RU [Интерфейсы и абстрактные классы](http://www.quizful.net/interview/java/interface-vs-abstract-class)
 
-[Garbage Collection наглядно / Хабрахабр](https://habrahabr.ru/post/112676/)
+RU [Garbage Collection наглядно / Хабрахабр](https://habrahabr.ru/post/112676/)
 
-[Spring Framework — Википедия](https://ru.wikipedia.org/wiki/Spring_Framework#.D0.9C.D0.BE.D0.B4.D1.83.D0.BB.D0.B8_Spring_Framework)
+RU [Spring Framework — Википедия](https://ru.wikipedia.org/wiki/Spring_Framework#.D0.9C.D0.BE.D0.B4.D1.83.D0.BB.D0.B8_Spring_Framework)
 
 [Container-Managed Transactions - The Java EE 5 Tutorial](http://docs.oracle.com/javaee/5/tutorial/doc/bncij.html)
 
 [spring - Hibernate StaleObjectStateException during Concurrent Updates - Stack Overflow](http://stackoverflow.com/questions/8975766/hibernate-staleobjectstateexception-during-concurrent-updates)
 
-[Программирование в стиле Representational State Transfer (REST) на Ruby](http://www.ibm.com/developerworks/ru/library/os-understand-rest-ruby/)
+RU [Программирование в стиле Representational State Transfer (REST) на Ruby](http://www.ibm.com/developerworks/ru/library/os-understand-rest-ruby/)
 
 [GameTutorials | Talk to me like a three-year-old programming tutorials](http://www.gametutorials.com/)
 
@@ -765,9 +761,9 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [vogella Tutorials](http://www.vogella.com/tutorials/)
 
-[Создание веб-сайта. Курс молодого бойца / Хабрахабр](http://habrahabr.ru/post/273795/)
+RU [Создание веб-сайта. Курс молодого бойца / Хабрахабр](http://habrahabr.ru/post/273795/)
 
-[Я хочу, чтобы сайты открывались мгновенно / Хабрахабр](http://habrahabr.ru/post/274129/)
+RU [Я хочу, чтобы сайты открывались мгновенно / Хабрахабр](http://habrahabr.ru/post/274129/)
 
 [Yahoo! Design Pattern Library](http://developer.yahoo.com/ypatterns/)
 
@@ -775,17 +771,17 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [User feedback using the Animate Control - Jason Buss' Blog](http://customerfx.com/pages/customization/2009/05/13/user-feedback-using-the-animate-control.aspx)
 
-[Как эффективно переучиться на веб-разработчика? / Q&A / Хабрахабр](http://habrahabr.ru/qa/36921/)
+RU [Как эффективно переучиться на веб-разработчика? / Q&A / Хабрахабр](http://habrahabr.ru/qa/36921/)
 
-[http - The definitive guide to forms based website authentication - Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-forms-based-website-authentication/477578#477578)
+RU [http - The definitive guide to forms based website authentication - Stack Overflow](http://stackoverflow.com/questions/549/the-definitive-guide-to-forms-based-website-authentication/477578#477578)
 
-[Полуавтоматическая конвертация лени в код / Хабрахабр](http://habrahabr.ru/post/141933/)
+RU [Полуавтоматическая конвертация лени в код / Хабрахабр](http://habrahabr.ru/post/141933/)
 
 [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
-[Глава 1: DjangoBook по-русски | Django на русском](http://djbook.ru/ch01.html)
+RU [Глава 1: DjangoBook по-русски | Django на русском](http://djbook.ru/ch01.html)
 
-[Практика прототипирования в софтверной компании / Блог компании ALEE Software / Хабрахабр](http://habrahabr.ru/company/alee/blog/146781/)
+RU [Практика прототипирования в софтверной компании / Блог компании ALEE Software / Хабрахабр](http://habrahabr.ru/company/alee/blog/146781/)
 
 [Databoard for Research Insights – Think Insights – Google](http://www.google.com/think/tools/databoard.html)
 
@@ -793,9 +789,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Confessions of an Unlikely Developer: HOW A BLACKSMITH LEARNED TO CODE](http://joshuakemp.blogspot.ru/2013/11/how-blacksmith-learned-to-code-and-9.html)
 
-[Как новые руководители разрушают доверенные им компании / Мегамозг](https://megamozg.ru/post/23088/)
-
-[Месье, ваши problem solving skills не на высоте, или как я провалил одно собеседование / Хабрахабр](https://habrahabr.ru/post/276673/)
+RU [Месье, ваши problem solving skills не на высоте, или как я провалил одно собеседование / Хабрахабр](https://habrahabr.ru/post/276673/)
 
 [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 
@@ -803,17 +797,17 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [High Performance Computer Architecture | Udacity](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
 
-[Программирование на языке Java: объектно-ориентированное проектирование структур данных | Coursera](https://www.coursera.org/specializations/java-object-oriented)
+RU [Программирование на языке Java: объектно-ориентированное проектирование структур данных | Coursera](https://www.coursera.org/specializations/java-object-oriented)
 
 [Performance Tuning Garbage Collection in Java](http://www.petefreitag.com/articles/gctuning/)
 
-[Теория и практика Java: Сборка мусора и производительность](http://www.ibm.com/developerworks/ru/library/j-jtp01274/)
+RU [Теория и практика Java: Сборка мусора и производительность](http://www.ibm.com/developerworks/ru/library/j-jtp01274/)
 
-[Архитектурные паттерны в iOS / Блог компании Badoo / Хабрахабр](https://habrahabr.ru/company/badoo/blog/281162/)
+RU [Архитектурные паттерны в iOS / Блог компании Badoo / Хабрахабр](https://habrahabr.ru/company/badoo/blog/281162/)
 
 [Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet)
 
-[Самый простой способ сделать игру на Unity 5 | Channel 9](https://channel9.msdn.com/Series/The-easiest-way-to-make-the-game-to-Unity-5)
+RU [Самый простой способ сделать игру на Unity 5 | Channel 9](https://channel9.msdn.com/Series/The-easiest-way-to-make-the-game-to-Unity-5)
 
 [Unity - Player and Enemy Animations](http://unity3d.com/ru/learn/tutorials/projects/2d-roguelike-tutorial/player-and-enemy-animations?playlist=17150)
 
@@ -821,41 +815,39 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [useful-java-links/link-rus at master · Vedenin/useful-java-links · GitHub](https://github.com/Vedenin/useful-java-links/tree/master/link-rus#ix-%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B-%D0%B8-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-%D0%BE-java)
 
-[Исповедь человека в чёрной шляпе / Geektimes](https://geektimes.ru/post/276112/)
+RU [Исповедь человека в чёрной шляпе / Geektimes](https://geektimes.ru/post/276112/)
 
-[Знакомьтесь, процессор Intel Core 6-го поколения (Skylake) / Блог компании Intel / Geektimes](https://geektimes.ru/company/intel/blog/275964/)
+RU [Лекции Технопарка. 2 семестр. Java / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/259125/)
 
-[Лекции Технопарка. 2 семестр. Java / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/259125/)
-
-[Документация разработчика Hibernate – Глава I. Доступ к базе данных / Хабрахабр](https://habrahabr.ru/post/301384/)
+RU [Документация разработчика Hibernate – Глава I. Доступ к базе данных / Хабрахабр](https://habrahabr.ru/post/301384/)
 
 [10 Best Java Programming Blogs To Follow](http://codecondo.com/10-best-java-programming-blogs-to-follow/)
 
 [JavaPersistence.pdf](http://download.oracle.com/otn-pub/jcp/persistence-2_1-fr-eval-spec/JavaPersistence.pdf?AuthParam=1466083127_f30313e125e850df3b5fd1b86b3cf259)
 
-[Форум Ruby School • View forum - Задачки из Силиконовой Долины и не только](http://forum.rubyschool.us/viewforum.php?f=11&sid=49951c3dee8a68831822851cba290fff)
+RU [Форум Ruby School • View forum - Задачки из Силиконовой Долины и не только](http://forum.rubyschool.us/viewforum.php?f=11&sid=49951c3dee8a68831822851cba290fff)
 
-[Мой опыт обучения детей 8-10 лет программированию на Scratch / Хабрахабр](https://habrahabr.ru/post/234823/)
+RU [Мой опыт обучения детей 8-10 лет программированию на Scratch / Хабрахабр](https://habrahabr.ru/post/234823/)
 
-[Обзор java.util.concurrent.\* / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/157273/)
+RU [Обзор java.util.concurrent.\* / Блог компании Luxoft / Хабрахабр](https://habrahabr.ru/company/luxoft/blog/157273/)
 
-[Структуры данных в картинках. ArrayList / Хабрахабр](https://habrahabr.ru/post/128269/)
+RU [Структуры данных в картинках. ArrayList / Хабрахабр](https://habrahabr.ru/post/128269/)
 
-[Структуры данных в картинках. HashMap / Хабрахабр](https://habrahabr.ru/post/128017/)
+RU [Структуры данных в картинках. HashMap / Хабрахабр](https://habrahabr.ru/post/128017/)
 
 [A Lazy Developers Introduction to Java Concurrency Executors - DZone Java](https://dzone.com/articles/lazy-developers-introduction)
 
 [14 High-Performance Java Persistence Tips | Vlad Mihalcea's Blog](https://vladmihalcea.com/2016/06/28/14-high-performance-java-persistence-tips/)
 
-[Загрузка классов в Java. Теория / Хабрахабр](https://habrahabr.ru/post/103830/)
+RU [Загрузка классов в Java. Теория / Хабрахабр](https://habrahabr.ru/post/103830/)
 
-[Блог сурового челябинского программиста: Собеседование программистов в Челябинске. Что собственно надо знать.](http://samolisov.blogspot.co.il/2007/11/blog-post_18.html)
+RU [Блог сурового челябинского программиста: Собеседование программистов в Челябинске. Что собственно надо знать.](http://samolisov.blogspot.co.il/2007/11/blog-post_18.html)
 
-[Блог сурового челябинского программиста: Пишем свой загручик java-классов](http://samolisov.blogspot.co.il/2008/01/java.html)
+RU [Блог сурового челябинского программиста: Пишем свой загручик java-классов](http://samolisov.blogspot.co.il/2008/01/java.html)
 
-[Основы динамической загрузки классов в Java (Санкт-Петербургская группа тестирования JVM)](https://blogs.oracle.com/vmrobot/entry/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2_%D0%B2)
+RU [Основы динамической загрузки классов в Java (Санкт-Петербургская группа тестирования JVM)](https://blogs.oracle.com/vmrobot/entry/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2_%D0%B2)
 
-[Основы сборки мусора в Hotspot JVM (Санкт-Петербургская группа тестирования JVM)](https://blogs.oracle.com/vmrobot/entry/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0_%D0%B2_hotspot)
+RU [Основы сборки мусора в Hotspot JVM (Санкт-Петербургская группа тестирования JVM)](https://blogs.oracle.com/vmrobot/entry/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0_%D0%B2_hotspot)
 
 [JVM JIT optimization techniques - Advanced Web Machinery](https://advancedweb.hu/2016/05/27/jvm_jit_optimization_techniques/)
 
@@ -865,7 +857,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Watch People Code Products Live and Learn Programming - LiveCoding.tv](https://www.livecoding.tv/)
 
-[Вопросы на собеседование Junior Java Developer.](https://jsehelper.blogspot.co.il/search?updated-max=2016-05-15T18:49:00%2B03:00&max-results=5&m=1)
+RU [Вопросы на собеседование Junior Java Developer.](https://jsehelper.blogspot.co.il/search?updated-max=2016-05-15T18:49:00%2B03:00&max-results=5&m=1)
 
 [99-problems/java8 at master · shekhargulati/99-problems · GitHub](https://github.com/shekhargulati/99-problems/tree/master/java8)
 
@@ -875,7 +867,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Home | Intel® Software](https://software.intel.com/en-us/modern-code)
 
-[Материалы « XP Injection](http://xpinjection.com/resources/)
+RU [Материалы « XP Injection](http://xpinjection.com/resources/)
 
 [Tutorial · Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
@@ -893,7 +885,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
-[Шпаргалка по GIT — Medium](https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676#.uu6zolew6)
+RU [Шпаргалка по GIT — Medium](https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676#.uu6zolew6)
 
 [Those pesky design interviews – THE INTERVIEW HACKER](https://theinterviewhacker.com/2016/01/23/those-pesky-design-interviews/#more-286)
 
@@ -915,17 +907,13 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [jvm - How do I write a correct micro-benchmark in Java? - Stack Overflow](http://stackoverflow.com/questions/504103/how-do-i-write-a-correct-micro-benchmark-in-java)
 
-[Java сертификация. Подготовка к SCJP / Хабрахабр](https://habrahabr.ru/post/131198/)
+RU [Java сертификация. Подготовка к SCJP / Хабрахабр](https://habrahabr.ru/post/131198/)
 
-[Java сертификация — прохождение SCJP и SCBCD / Хабрахабр](https://habrahabr.ru/post/84405/)
+RU [Java сертификация — прохождение SCJP и SCBCD / Хабрахабр](https://habrahabr.ru/post/84405/)
 
 [Free SCJP Mock exams | Nikos' Java blog](https://nikojava.wordpress.com/2008/10/10/free-scjp-mock-exams/)
 
 [Free SCJP/OCPJP Mock Exam Simulator - Examlab](http://www.examlab.org/)
-
-[Знаешь ли ты JAVA, %username%? / Хабрахабр](https://habrahabr.ru/post/111189/)
-
-[Знаешь ли ты JAVA, %username%? Часть вторая / Хабрахабр](https://habrahabr.ru/post/112674/)
 
 [Stories & Tips: 50+ Interviews With Facebook, Twitter, Amazon & Others](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)
 
@@ -939,32 +927,32 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [An Unorthodox Approach to Database Design : The Coming of the Shard - High Scalability -](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
 
-[Что послушать программисту? Подборка подкастов на русском и англиском языках / Хабрахабр](https://habrahabr.ru/post/308532/)
+RU [Что послушать программисту? Подборка подкастов на русском и англиском языках / Хабрахабр](https://habrahabr.ru/post/308532/)
 
-[Иванов Иван Ивановитч. Ит-кукбук - 2207](http://samlib.ru/i/iwanow_iwan_iwanowitch/it-kukbuk-2207.shtml)
+RU [Иванов Иван Ивановитч. Ит-кукбук - 2207](http://samlib.ru/i/iwanow_iwan_iwanowitch/it-kukbuk-2207.shtml)
 
-[Hibernate Cache. Практика / Хабрахабр](https://habrahabr.ru/post/136375/)
+RU [Hibernate Cache. Практика / Хабрахабр](https://habrahabr.ru/post/136375/)
 
-[Hibernate cache / Хабрахабр](https://habrahabr.ru/post/135176/)
+RU [Hibernate cache / Хабрахабр](https://habrahabr.ru/post/135176/)
 
 [GitHub - jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university)
 
-[Как я проходил собеседования в Яндекс: мой непростой, но успешный опыт / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/251715/)
+RU [Как я проходил собеседования в Яндекс: мой непростой, но успешный опыт / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/251715/)
 
-[Курсы информационных технологий 2014 - YouTube](https://www.youtube.com/playlist?list=PLdJo1XilUTZN3jw6dalF9QyYhYjV2ZC56)
+RU [Курсы информационных технологий 2014 - YouTube](https://www.youtube.com/playlist?list=PLdJo1XilUTZN3jw6dalF9QyYhYjV2ZC56)
 
-[Задачи на собеседованиях в Яндексе / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/206234/)
+RU [Задачи на собеседованиях в Яндексе / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/206234/)
 
-[Переезд IT-шника в Германию: от А до Я / Хабрахабр](https://habrahabr.ru/post/273673/)
+RU [Переезд IT-шника в Германию: от А до Я / Хабрахабр](https://habrahabr.ru/post/273673/)
 
-[Работа для программистов в США - Вакансии](http://mighelp.info/direct-vacancy-it/)
+RU [Работа для программистов в США - Вакансии](http://mighelp.info/direct-vacancy-it/)
 
-[Практикум 2 курса | cmc@msu](http://cmcmsu.no-ip.info/2course/)
+RU [Практикум 2 курса | cmc@msu](http://cmcmsu.no-ip.info/2course/)
 
-[Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/#3)
+RU [Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/#3)
 
-[Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/#15)
+RU [Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/#15)
 
-[Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/)
+RU [Обучаемся самостоятельно: подборка видеокурсов по Computer Science / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/315724/)
 
 [Video Lectures | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/)
