@@ -57,9 +57,8 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Интервью без сучка и задоринки: как программисту успешно пройти собеседование / Блог компании Wirex / Geektimes](https://geektimes.ru/company/wirex/blog/273166/)
 
-### links and books
+### Links and books
 
-[[Kormen,\_Leizerson,\_Rivest,\_SHtain.\_\_(Cormen\_T.,Le(BookZZ.org) (1).pdf](https://www.dropbox.com/home/books/Development/General?preview=%5BKormen%2C_Leizerson%2C_Rivest%2C_SHtain.__(Cormen_T.%2CLe(BookZZ.org)+(1).pdf)
 
 [Сайты Обучение](http://m.megamozg.ru/post/19214/#habracut)
 
@@ -367,8 +366,6 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [12 лучших фреймворков для разработки приложений под Android](http://m.habrahabr.ru/post/265261/comments/)
 
-### udacity lesson1
-
 [View | Android Developers](http://developer.android.com/reference/android/view/View.html#findViewById(int)?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=l1_findviewbyid&utm_campaign=training)
 
 [Tips, Tricks, and Troubleshooting in Android Studio Webcast - 6/19 – Google+](https://plus.google.com/u/0/events/c23f0fcnvphgkb5hj3u2a9crdd4?cfem=1&authkey=CMuyhs-T-4iGFA)
@@ -447,7 +444,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Usethics - Контрольный список интерфейса](http://usethics.ru/blog/lib/software_checklist/)
 
-### http
+### Http
 
 [HTTP: The Protocol Every Web Developer Must Know - Part 1 - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
@@ -501,7 +498,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [[Перевод] Современный веб-разработчик, или 6 вещей, которые вы должны знать, чтобы выжить / Хабрахабр](http://habrahabr.ru/post/162317/)
 
-### games
+### Games
 
 [21 бесплатный учебный ресурс для разработчиков игр / Блог компании Plarium / Хабрахабр](http://habrahabr.ru/company/plarium/blog/275027/)
 
@@ -543,7 +540,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [MongoDb for developers. Неделя 1 / Хабрахабр](http://habrahabr.ru/post/156633/#habracut)
 
-### unix
+### Unix
 
 [A survival guide for Unix beginners](http://matt.might.net/articles/basic-unix/)
 
@@ -551,7 +548,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Tips, tricks and tools for using and learning Linux and Unix](http://matt.might.net/articles/best-tools-for-using-and-learning-linux-and-unix/)
 
-### .NET
+### .NET C#
 
 [Бесплатная централизованная библиотека кода: Microsoft All-In-One Code Framework / Блог компании Microsoft / Хабрахабр](http://habrahabr.ru/company/microsoft/blog/125000/)
 
@@ -587,7 +584,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Getting Started with iPhone and iOS Development - CodeProject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development)
 
-### blogs
+### Blogs
 
 [Убей в себе государство](http://slonik-v-domene.livejournal.com/)
 
@@ -633,8 +630,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Записки правдивого архитектора: просто о самом главном (Ч.1) / Хабрахабр](https://habrahabr.ru/post/276527/)
 
-### uw
-
+### UpWork
 [oDesk (Upwork). Мой опыт за полтора года / Мегамозг](https://megamozg.ru/post/6062/)
 
 [Блог про фриланс - Just For Fun. Работа на иностранных биржах (Upwork, oDesk и Elance). Блог про фриланс — Just For Fun.](http://jff.name/)
@@ -671,7 +667,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Approximation Algorithms Part II - Высшая нормальная школа | Coursera](https://www.coursera.org/learn/approximation-algorithms-part-2)
 
-### amazon
+### Amazon Interview
 
 [reddit.com: результаты поиска](https://www.reddit.com/search?q=amazon+interview&restrict_sr=&sort=relevance&t=all#page=4)
 
@@ -741,7 +737,7 @@ This is collection of useful links I encountered during my developer life. Most 
 
 [Amazon Interview Questions | CareerCup](https://www.careercup.com/page?pid=amazon-interview-questions)
 
-### Other
+### Unsorted
 
 [Spring MVC Framework Tutorial](https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm)
 
@@ -944,8 +940,6 @@ This is collection of useful links I encountered during my developer life. Most 
 [An Unorthodox Approach to Database Design : The Coming of the Shard - High Scalability -](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
 
 [Что послушать программисту? Подборка подкастов на русском и англиском языках / Хабрахабр](https://habrahabr.ru/post/308532/)
-
-
 
 [Иванов Иван Ивановитч. Ит-кукбук - 2207](http://samlib.ru/i/iwanow_iwan_iwanowitch/it-kukbuk-2207.shtml)
 
